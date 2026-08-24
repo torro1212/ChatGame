@@ -1,15 +1,17 @@
 {
   "date": "24.8.2026",
   "day": 1,
-  "calories": 525,
+  "calories": 1225,
   "calorieTarget": 1700,
-  "protein": 20,
+  "protein": 36,
   "proteinTarget": 110,
   "steps": 0,
   "stepTarget": 7000,
   "breakfastCompleted": true,
   "breakfastEstimate": "כ־500–550 קק״ל · כ־18–22 גרם חלבון",
-  "nextTitle": "ארוחת צהריים 12:00–13:00",
-  "nextText": "קוסקוס + מרק וירקות + 2 ממולאים. לצלם את הצלחת לפני האוכל ולשלוח בצ׳אט.",
+  "lunchCompleted": true,
+  "lunchEstimate": "2/3 מקופסת הקוסקוס + 1.5 ממולאים · כ־650–800 קק״ל · כ־12–20 גרם חלבון (הערכה מתמונות)",
+  "nextTitle": "הבא: ארוחת ערב עשירה בחלבון",
+  "nextText": "כרגע לאכול רק כשתהיה רעב. בערב נתאים מנה עם הרבה חלבון לפי מה שזמין בבית.",
   "nailStatus": "לא דווח"
 }
