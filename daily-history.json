@@ -15,6 +15,24 @@
       "sleepHours": 5.7,
       "nailStatus": null,
       "workout": null
+    },
+    "2026-08-25": {
+      "date": "25.8.2026",
+      "day": 2,
+      "closed": false,
+      "foodClosed": true,
+      "travelDay": true,
+      "calories": 2135,
+      "calorieTarget": 1700,
+      "protein": 61,
+      "proteinTarget": 110,
+      "waterMl": null,
+      "waterTargetMl": 2000,
+      "steps": null,
+      "stepTarget": 7000,
+      "sleepHours": null,
+      "nailStatus": null,
+      "workout": null
     }
   }
 }
