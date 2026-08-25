@@ -1,0 +1,20 @@
+{
+  "days": {
+    "2026-08-24": {
+      "date": "24.8.2026",
+      "day": 1,
+      "closed": true,
+      "calories": 1695,
+      "calorieTarget": 1700,
+      "protein": 63,
+      "proteinTarget": 110,
+      "waterMl": null,
+      "waterTargetMl": 2000,
+      "steps": null,
+      "stepTarget": 7000,
+      "sleepHours": 5.7,
+      "nailStatus": null,
+      "workout": null
+    }
+  }
+}
